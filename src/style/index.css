@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .option-correct {
+        background: #6BF371;
+    }
+
+    .option-wrong {
+        background: #F4647F;
+    }
+
+}
